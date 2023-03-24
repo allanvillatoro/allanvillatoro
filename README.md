@@ -1,5 +1,6 @@
 # 💫 About Me:
-Software Developer with more than 8 years of experience.<br>I'm currently working as a remote Full Stack Developer for a US company.<br><br>My hobbies:<br>
+A highly committed professional with experience in Technology, Software Development, Internet of Things and Education.<br>
+I'm currently working as a remote Full Stack Developer for a US company.<br><br>My hobbies:<br>
 <ul>
   <li>Travel to new places</li>
   <li>Watch YouTube</li>
