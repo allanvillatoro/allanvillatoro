@@ -1,6 +1,6 @@
 # 💫 About Me:
 A highly committed professional with experience in Technology, Software Development, Internet of Things and Education.<br>
-I'm currently working as a remote Full Stack Developer for a US company.<br><br>My hobbies:<br>
+I'm currently working as a remote Software Engineer for a US company.<br><br>My hobbies:<br>
 <ul>
   <li>Travel to new places</li>
   <li>Watch YouTube</li>
